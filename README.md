@@ -7,9 +7,9 @@
 <p align="center">
 The loss function for linear support vector machine with the squared hinge loss is
 </p>
-<p align="center">
-![Alt text](www/eq1.gif?raw=true "Title")
-</p>
+
+![Alt text](www/eq1.gif?style=centerme)
+
 <p align="center">
 Thus the gradient of the loss function can be written as
 </p>
