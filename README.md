@@ -6,15 +6,20 @@
 
 <p align="center">
 The loss function for linear support vector machine with the squared hinge loss is
-
+</p>
+<p align="center">
 ![Alt text](www/eq1.gif?raw=true "Title")
-
+</p>
+<p align="center">
 Thus the gradient of the loss function can be written as
-
+</p>
+<p align="center">
 ![Alt text](www/eq2.gif?raw=true "Title")
-
+</p>
+<p align="center">
 ![Alt text](www/eq3.gif?raw=true "Title")
 </p>
+
 
 **There are two demos and one function py file in this repo:**
 
