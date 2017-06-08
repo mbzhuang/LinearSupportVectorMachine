@@ -4,7 +4,7 @@
 
 - In this repo, I implemented in Python an algorithm of linear support vector machine with the squared hinge loss.
 
-
+<p align="center">
 The loss function for linear support vector machine with the squared hinge loss is
 
 ![Alt text](www/eq1.gif?raw=true "Title")
@@ -14,8 +14,9 @@ Thus the gradient of the loss function can be written as
 ![Alt text](www/eq2.gif?raw=true "Title")
 
 ![Alt text](www/eq3.gif?raw=true "Title")
+</p>
 
-There are two demos and one function py file in this repo:
+**There are two demos and one function py file in this repo:**
 
 **SVM_spam_data_demo.ipynb**
 
