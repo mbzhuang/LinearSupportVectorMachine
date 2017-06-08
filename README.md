@@ -7,7 +7,7 @@ In this repo, I implemented in Python an algorithm of linear support vector mach
 
 The loss function for linear support vector machine with the squared hinge loss is
 
-
+![Alt text](www/eq1.gif?raw=true "Title")
 
 Thus the gradient of the loss function can be written as
 
