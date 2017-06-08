@@ -2,7 +2,7 @@
 
 - Statistical Machine Learning For Data Scientists Code Release Practice
 
-In this repo, I implemented in Python an algorithm of linear support vector machine with the squared hinge loss.
+- In this repo, I implemented in Python an algorithm of linear support vector machine with the squared hinge loss.
 
 
 The loss function for linear support vector machine with the squared hinge loss is
@@ -11,6 +11,8 @@ The loss function for linear support vector machine with the squared hinge loss 
 
 Thus the gradient of the loss function can be written as
 
+![Alt text](www/eq2.gif?raw=true "Title")
+![Alt text](www/eq3.gif?raw=true "Title")
 
 There are two demos and one function py file in this repo:
 
